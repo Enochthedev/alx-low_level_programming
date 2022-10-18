@@ -1,12 +1,11 @@
 #include <stdio.h>
+#include <main.h>
 /**
- * printf - writes the character _putchar to stdout
+ * _putchar - writes the character _putchar to stdout
  *
  * Return: On success 0
  */
-main(void)
+int _putchar(char c)
 {
-        char *pt = "_putchar";
-                printf(pt,'%c');
-                return(0);
+                return(write(0));
 }
