@@ -1,6 +1,7 @@
 # 0x14. C - Bit manipulation
 
 ### Mandatory
+
 **[0-binary_to_uint.c](0-binary_to_uint.c)** - function that converts a binary number to an `unsigned int`.
 
 **[1-print_binary.c](1-print_binary.c)** - function that prints the binary representation of a number.
@@ -14,6 +15,7 @@
 **[5-flip_bits.c](5-flip_bits.c)** - function that returns the number of bits you would need to flip to get from one number to another.
 
 ### Advanced
+
 **[100-get_endianness.c](100-get_endianness.c)** - function that checks the endianness.
 
-**[101-password](101-password)** - finds the password for [this program](https://github.com/holbertonschool/0x13.c) and saves it in a file.
+**[101-password](101-password)** - finds the password for [this program](/0x13.c) and saves it in a file.
